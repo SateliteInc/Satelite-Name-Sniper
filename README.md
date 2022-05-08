@@ -1,2 +1,2 @@
-# Satelite-Name-Sniper
-Download in Releases
+# Satelite-Stuff
+Downloads in Releases
